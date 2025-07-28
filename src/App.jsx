@@ -1,3 +1,7 @@
+// Izarra Villareal CS 81 JavaScript Module 10 Assignment 10A: Code Review - StudentCard Component
+
+// GitHub URL: https://github.com/izzyduzzzit/module10a-studentcard-review
+
 import StudentCard from './StudentCard';
 
 function App() {
