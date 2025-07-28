@@ -1,3 +1,7 @@
+// Izarra Villareal CS 81 JavaScript Module 10 Assignment 10A: Code Review - StudentCard Component
+
+// GitHub URL: https://github.com/izzyduzzzit/module10a-studentcard-review
+
 function StudentCard(props) {
   const { name, major, year, bio, imageUrl } = props;
   const [showBio, setShowBio] = React.useState(false);
