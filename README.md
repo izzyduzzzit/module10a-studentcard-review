@@ -14,3 +14,5 @@ explain the logic behind props, state, and interactivity.
 - How to better document and explain React components
 
 ## Screenshot
+<img width="320" height="529" alt="image" src="https://github.com/user-attachments/assets/2b49d669-5e3e-4664-ab60-b5a5728ce95e" />
+<img width="441" height="566" alt="image" src="https://github.com/user-attachments/assets/64875923-d07d-4b81-9441-02438d9d2593" />
